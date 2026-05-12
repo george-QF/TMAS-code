@@ -1,6 +1,6 @@
 # TMAS: Scaling Test-Time Compute via Multi-Agent Synergy
 
-[![arXiv](https://img.shields.io/badge/arXiv-PLACEHOLDER-b31b1b.svg)](https://arxiv.org/abs/PLACEHOLDER)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10344-b31b1b.svg)](https://arxiv.org/pdf/2605.10344)
 <!-- [![HuggingFace](https://img.shields.io/badge/🤗-Models%20%26%20Data-yellow)](https://huggingface.co/unclegeorge/TAMS-Hybrid-RL-4B) -->
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-Code-black)](https://github.com/george-QF/TMAS-code) -->
 
