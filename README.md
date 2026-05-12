@@ -172,8 +172,8 @@ python code/main.py \
 ```bibtex
 @article{wu2026tmas,
   title={TMAS: Scaling Test-Time Compute via Multi-Agent Synergy},
-  author={Wu, George and H.Yu, Xavier and Yang, Evan and Hao, Chuan and Yang, Ming and Chang, Feng and Wei, Yuan and Yang, Jian and Tao, Ran and Dai, Bryan},
-  journal={arXiv preprint arXiv:PLACEHOLDER},
+  author={Wu, George and Jing, Nan and Yi, Qing and Hao, Chuan and Yang, Ming and Chang, Feng and Wei, Yuan and Yang, Jian and Tao, Ran and Dai, Bryan},
+  journal={https://arxiv.org/pdf/2605.10344},
   year={2026}
 }
 ```
